@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color: darkturquoise
+}
+.menu {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+h4{
+  font-size: 30px;   
+}
+h14{
+  font-size: 30px;   
+}
+h1{
+   font-size: 30px;  
+}
+h3{
+  font-size: 30px;   
+}
+h6{
+   font-size: 30px;  
+}
+h10{
+  font-size: 25px;    
+}
+h16{
+  font-size: 25px;      
+}
+h17{
+   font-size: 25px;     
+}
+h22{
+  font-size: 25px;      
+}
+h8{
+ font-size: 25px;       
+}
+h5{
+  font-size: 30px;    
+}
+h7{
+    font-size: 30px;  
+}
+h21{
+ font-size: 27;   
+}
+h20{
+ font-size: 27;     
+}
